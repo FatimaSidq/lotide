@@ -7,3 +7,5 @@ const min = function(array) {
   }
   return smallest;
 };
+
+module.exports = min;

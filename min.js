@@ -7,5 +7,3 @@ const min = function(array) {
   }
   return smallest;
 };
-
-console.log(min([1260, 490, 599, 1400, 820]))
